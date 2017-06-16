@@ -6,6 +6,7 @@
       <mapping pattern="Test_xml.rb" type="PLAIN_TEXT" />
       <mapping ext="blp" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="task" type="Ruby" />
     </extensionMap>
