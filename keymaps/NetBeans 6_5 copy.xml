@@ -1,7 +1,6 @@
-<keymap version="1" name="Default copy" parent="$default">
-  <action id="AddToFavoritesPopup" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift alt f" />
+<keymap version="1" name="NetBeans 6.5 copy" parent="NetBeans 6.5">
+  <action id="EditorToggleShowLineNumbers">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
