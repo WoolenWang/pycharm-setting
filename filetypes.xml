@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="Test_xml.rb" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="prercovcfgsh" type="PLAIN_TEXT" />
+      <mapping pattern="makefile" type="PLAIN_TEXT" />
+      <mapping pattern="vst_at_rw_offset0_size0" type="PLAIN_TEXT" />
+      <mapping ext="new" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="vst_performance" type="Python" />
+      <mapping pattern="aft" type="Python" />
+      <mapping pattern="sdst" type="Python" />
+      <mapping ext="task" type="Ruby" />
+    </extensionMap>
+  </component>
+</application>
