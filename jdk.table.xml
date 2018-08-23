@@ -7,30 +7,10 @@
       <homePath value="C:/ATT_rake_server_ruby187/ruby/bin/ruby.exe" />
       <roots>
         <classPath>
-          <root type="composite">
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/site_ruby/1.8" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/site_ruby/1.8/i386-msvcrt" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/site_ruby" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/vendor_ruby/1.8" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/vendor_ruby/1.8/i386-msvcrt" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/1.8" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/1.8/i386-mingw32" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
-          </root>
+          <root type="composite" />
         </classPath>
         <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/site_ruby/1.8" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/site_ruby/1.8/i386-msvcrt" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/site_ruby" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/vendor_ruby/1.8" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/vendor_ruby/1.8/i386-msvcrt" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/1.8" />
-            <root type="simple" url="file://C:/ATT_rake_server_ruby187/ruby/lib/ruby/1.8/i386-mingw32" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
-          </root>
+          <root type="composite" />
         </sourcePath>
       </roots>
       <additional />
@@ -42,56 +22,832 @@
       <homePath value="F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/bin/ruby.exe" />
       <roots>
         <classPath>
-          <root type="composite">
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/site_ruby/2.0.0" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/site_ruby/2.0.0/i386-msvcrt" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/site_ruby" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/vendor_ruby/2.0.0" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/vendor_ruby/2.0.0/i386-msvcrt" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/2.0.0" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/2.0.0/i386-mingw32" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs20" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/site_ruby/2.0.0" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/site_ruby/2.0.0/i386-msvcrt" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/site_ruby" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/vendor_ruby/2.0.0" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/vendor_ruby/2.0.0/i386-msvcrt" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/2.0.0" />
-            <root type="simple" url="file://F:/SVN_Path/Program/Ruby/RubyMine/AF_test_tool/green_ruby/ruby/lib/ruby/2.0.0/i386-mingw32" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs20" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.5.3 (E:\running\anaconda\envs\python35\python.exe)" />
-      <type value="Python SDK" />
-      <version value="Python 3.5.3" />
-      <homePath value="E:\running\anaconda\envs\python35\python.exe" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://E:/running/anaconda/envs/python35/DLLs" />
-            <root type="simple" url="file://E:/running/anaconda/envs/python35/Lib" />
-            <root type="simple" url="file://E:/running/anaconda/envs/python35" />
-            <root type="simple" url="file://E:/running/anaconda/envs/python35/Lib/site-packages" />
-            <root type="simple" url="jar://E:/running/anaconda/envs/python35/Lib/site-packages/setuptools-27.2.0-py3.5.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-2072074718" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
+          <root type="composite" />
         </classPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
       </roots>
       <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.5 (sftp://root@200.200.172.102:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.5" />
+      <homePath value="sftp://root@200.200.172.102:22/root/virtual_env/eeos-ctrl/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/-914298408" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/664645220" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/771815209" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/-777650770" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/1646051593" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/704340502" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/-289277395" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/918732847" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-158899545/1711102276" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-158899545/1646051593" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-158899545/783407082" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-158899545" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="d488b5b8-d151-4423-b8ee-3bea349d619b" WEB_SERVER_CONFIG_NAME="root@200.200.172.102:22" WEB_SERVER_CREDENTIALS_ID="sftp://root@200.200.172.102:22" INTERPRETER_PATH="/root/virtual_env/eeos-ctrl/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.5">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/-914298408" remote-root="/usr/lib/python2.7/site-packages/autopep8-1.3.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/664645220" remote-root="/usr/lib/python2.7/site-packages/pycodestyle-2.4.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/771815209" remote-root="/usr/lib/python2.7/site-packages/Twisted-18.4.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/-777650770" remote-root="/usr/lib/python2.7/site-packages/hyperlink-18.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/1646051593" remote-root="/usr/lib64/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/704340502" remote-root="/usr/lib64/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/-289277395" remote-root="/usr/lib64/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/655061786/918732847" remote-root="/usr/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-158899545/1711102276" remote-root="/root/virtual_env/eeos-ctrl/lib64/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-158899545/1646051593" remote-root="/usr/lib64/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-158899545/783407082" remote-root="/root/virtual_env/eeos-ctrl/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (eeos_env)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\Users\Administrator\eeos_env\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/eeos_env/Lib" type="simple" />
+            <root url="file://$USER_HOME$/eeos_env/Scripts" type="simple" />
+            <root url="file://E:/tools/python2.7/Lib" type="simple" />
+            <root url="file://E:/tools/python2.7/DLLs" type="simple" />
+            <root url="file://E:/tools/python2.7/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/eeos_env" type="simple" />
+            <root url="file://$USER_HOME$/eeos_env/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/464693379" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/git/eeos/src/python/eeos_ctrl" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.12 (sftp://root@200.200.172.112:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="sftp://root@200.200.172.112:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/724150857" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/-1676341222" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/-1557553616" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/781040387" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/246237561" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="3d7678d4-5875-4df8-920e-b8c83e6be2f5" WEB_SERVER_CONFIG_NAME="root@200.200.172.112:22" WEB_SERVER_CREDENTIALS_ID="sftp://root@200.200.172.112:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/-1557553616" remote-root="/root/sdst" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/246237561/781040387" remote-root="/root/sft" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.11 (sftp://root@200.200.174.16:22/sf/vs/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="sftp://root@200.200.174.16:22/sf/vs/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/565804016" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/-896796035" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/878010814" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/-1383197484" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/359974613" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/amqp-1.4.9-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/anyjson-0.3.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/automaton-1.2.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/billiard-3.3.0.23-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/cachetools-1.1.6-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/celery-3.1.24-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/contextlib2-0.5.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/configparser-3.5.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/debtcollector-1.4.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/fasteners-0.14.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/futures-3.0.5-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/futurist-0.14.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/taskflow-1.26.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/jsonschema-2.5.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/kombu-3.0.37-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/mamba-0.8.6-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/mock-1.3.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/monotonic-1.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/netifaces-0.10.4-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/networkx-1.11-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/oslo.serialization-2.7.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pbr-1.10.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pbr-1.8.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pytz-2016.10-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/redis-2.10.5-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/retrying-1.3.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/stevedore-1.14.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/six-1.10.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/funcsigs-0.4-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/oslo.i18n-2.6.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/-1313697966" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/iso8601-0.1.10-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/msgpack_pure-0.1.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/msgpack_python-0.4.7-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/decorator-4.0.6-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/prettytable-0.7-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/prettytable_extras-0.1.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/kazoo-2.4.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/vcversioner-2.14.0.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/lazy_object_proxy-1.2.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pylint-1.5.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/1872374798" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/gevent-1.1.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/setproctitle-1.1.10-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/jproperties-1.0.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/python_daemon-2.1.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pycparser-2.14-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/cffi-1.4.2-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/gfapi-0.0.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/Cython-0.24.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/numpy-1.11.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/tabulate-0.7.7-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/setuptools-36.6.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pytest-3.2.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/unittest_xml_reporting-2.1.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/924292916" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/thrift-0.11.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/python_dateutil-2.6.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pandas-0.21.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/520196820" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/781043673" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/518871807" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="b4decf59-a0d4-42dc-9df8-10f7d09da92a" WEB_SERVER_CONFIG_NAME="root@200.200.174.16:22" WEB_SERVER_CREDENTIALS_ID="sftp://root@200.200.174.16:22" INTERPRETER_PATH="/sf/vs/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/565804016" remote-root="/sf/vs/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/-896796035" remote-root="/sf/vs/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/878010814" remote-root="/sf/vs/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/-1383197484" remote-root="/sf/vs/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/359974613" remote-root="/sf/vs/lib/python-srv" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/amqp-1.4.9-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/amqp-1.4.9-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/anyjson-0.3.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/anyjson-0.3.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/automaton-1.2.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/automaton-1.2.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/billiard-3.3.0.23-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/billiard-3.3.0.23-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/cachetools-1.1.6-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/cachetools-1.1.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/celery-3.1.24-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/celery-3.1.24-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/contextlib2-0.5.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/contextlib2-0.5.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/configparser-3.5.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/debtcollector-1.4.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/debtcollector-1.4.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/fasteners-0.14.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/fasteners-0.14.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/futures-3.0.5-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/futures-3.0.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/futurist-0.14.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/futurist-0.14.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/taskflow-1.26.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/taskflow-1.26.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/jsonschema-2.5.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/jsonschema-2.5.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/kombu-3.0.37-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/kombu-3.0.37-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/mamba-0.8.6-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/mamba-0.8.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/mock-1.3.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/mock-1.3.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/monotonic-1.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/monotonic-1.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/netifaces-0.10.4-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/netifaces-0.10.4-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/networkx-1.11-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/networkx-1.11-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/oslo.serialization-2.7.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/oslo.serialization-2.7.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pbr-1.10.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pbr-1.10.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pbr-1.8.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pbr-1.8.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pytz-2016.10-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pytz-2016.10-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/redis-2.10.5-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/redis-2.10.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/retrying-1.3.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/retrying-1.3.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/stevedore-1.14.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/stevedore-1.14.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/six-1.10.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/six-1.10.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/funcsigs-0.4-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/funcsigs-0.4-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/oslo.i18n-2.6.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/oslo.i18n-2.6.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/-1313697966" remote-root="/sf/vs/lib/python2.7/site-packages/Babel-2.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/iso8601-0.1.10-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/iso8601-0.1.10-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/msgpack_pure-0.1.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/msgpack_pure-0.1.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/msgpack_python-0.4.7-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/msgpack_python-0.4.7-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/decorator-4.0.6-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/decorator-4.0.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/prettytable-0.7-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/prettytable-0.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/prettytable_extras-0.1.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/prettytable_extras-0.1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/kazoo-2.4.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/kazoo-2.4.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/vcversioner-2.14.0.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/vcversioner-2.14.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/lazy_object_proxy-1.2.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/lazy_object_proxy-1.2.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pylint-1.5.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pylint-1.5.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/1872374798" remote-root="/sf/vs/lib/python2.7/site-packages/greenlet-0.4.10-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/gevent-1.1.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/gevent-1.1.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/setproctitle-1.1.10-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/setproctitle-1.1.10-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/jproperties-1.0.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/jproperties-1.0.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/python_daemon-2.1.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/python_daemon-2.1.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pycparser-2.14-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pycparser-2.14-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/cffi-1.4.2-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/cffi-1.4.2-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/gfapi-0.0.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/gfapi-0.0.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/Cython-0.24.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/Cython-0.24.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/numpy-1.11.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/numpy-1.11.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/tabulate-0.7.7-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/tabulate-0.7.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/setuptools-36.6.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/setuptools-36.6.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pytest-3.2.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pytest-3.2.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/unittest_xml_reporting-2.1.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/unittest_xml_reporting-2.1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/924292916" remote-root="/sf/vs/lib/python2.7/site-packages/atomiclong-0.1.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/thrift-0.11.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/thrift-0.11.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/python_dateutil-2.6.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/python_dateutil-2.6.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/pandas-0.21.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pandas-0.21.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/520196820" remote-root="/sf/vs/lib/python2.7/site-packages/click-5.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/518871807/781043673" remote-root="/root/vst" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.12 (sftp://root@200.200.172.123:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="sftp://root@200.200.172.123:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/724150857" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/-1676341222" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/-1557553616" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1007058535" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="9b000ea1-03ad-433f-b233-bc1212242adc" WEB_SERVER_CONFIG_NAME="root@200.200.172.123:22" WEB_SERVER_CREDENTIALS_ID="sftp://root@200.200.172.123:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1007058535/-1557553616" remote-root="/root/sdst" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://root@200.200.175.142:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="sftp://root@200.200.175.142:22/sf/vs/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1540908967/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1540908967/-2145795944" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1540908967/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1540908967/918732847" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1540908967/-1710251117" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/565804016" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/-896796035" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/878010814" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/-1383197484" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/359974613" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/amqp-1.4.9-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/anyjson-0.3.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/automaton-1.2.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/billiard-3.3.0.23-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/cachetools-1.1.6-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/celery-3.1.24-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/contextlib2-0.5.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/configparser-3.5.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/debtcollector-1.4.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/fasteners-0.14.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/futures-3.0.5-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/futurist-0.14.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/taskflow-1.26.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/jsonschema-2.5.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/kombu-3.0.37-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/mamba-0.8.6-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/mock-1.3.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/monotonic-1.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/netifaces-0.10.4-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/networkx-1.11-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/oslo.serialization-2.7.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/pbr-1.10.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/pbr-1.8.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/pytz-2016.10-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/redis-2.10.5-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/retrying-1.3.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/stevedore-1.14.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/six-1.10.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/funcsigs-0.4-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/oslo.i18n-2.6.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/-1313697966" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/iso8601-0.1.10-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/msgpack_pure-0.1.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/msgpack_python-0.4.7-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/decorator-4.0.6-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/prettytable-0.7-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/prettytable_extras-0.1.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/kazoo-2.4.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/vcversioner-2.14.0.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/lazy_object_proxy-1.2.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/pylint-1.5.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/1872374798" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/gevent-1.1.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/setproctitle-1.1.10-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/jproperties-1.0.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/python_daemon-2.1.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/pycparser-2.14-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/cffi-1.4.2-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/gfapi-0.0.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/Cython-0.24.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/numpy-1.11.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/tabulate-0.7.7-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/setuptools-36.6.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/pytest-3.2.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/unittest_xml_reporting-2.1.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/924292916" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1182789036" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="ecea9d01-aa08-4cb7-88b1-7a5711d272f1" WEB_SERVER_CONFIG_NAME="root@200.200.175.142:22" WEB_SERVER_CREDENTIALS_ID="sftp://root@200.200.175.142:22" INTERPRETER_PATH="/sf/vs/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.11">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1540908967/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1540908967/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1540908967/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1540908967/918732847" remote-root="/usr/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1540908967/-1710251117" remote-root="/usr/lib/python2.7/site-packages/PIL" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/565804016" remote-root="/sf/vs/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/-896796035" remote-root="/sf/vs/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/878010814" remote-root="/sf/vs/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/-1383197484" remote-root="/sf/vs/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/359974613" remote-root="/sf/vs/lib/python-srv" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/amqp-1.4.9-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/amqp-1.4.9-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/anyjson-0.3.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/anyjson-0.3.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/automaton-1.2.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/automaton-1.2.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/billiard-3.3.0.23-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/billiard-3.3.0.23-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/cachetools-1.1.6-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/cachetools-1.1.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/celery-3.1.24-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/celery-3.1.24-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/contextlib2-0.5.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/contextlib2-0.5.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/configparser-3.5.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/debtcollector-1.4.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/debtcollector-1.4.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/fasteners-0.14.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/fasteners-0.14.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/futures-3.0.5-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/futures-3.0.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/futurist-0.14.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/futurist-0.14.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/taskflow-1.26.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/taskflow-1.26.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/jsonschema-2.5.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/jsonschema-2.5.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/kombu-3.0.37-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/kombu-3.0.37-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/mamba-0.8.6-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/mamba-0.8.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/mock-1.3.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/mock-1.3.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/monotonic-1.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/monotonic-1.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/netifaces-0.10.4-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/netifaces-0.10.4-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/networkx-1.11-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/networkx-1.11-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/oslo.serialization-2.7.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/oslo.serialization-2.7.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/pbr-1.10.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pbr-1.10.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/pbr-1.8.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pbr-1.8.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/pytz-2016.10-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pytz-2016.10-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/redis-2.10.5-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/redis-2.10.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/retrying-1.3.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/retrying-1.3.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/stevedore-1.14.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/stevedore-1.14.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/six-1.10.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/six-1.10.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/funcsigs-0.4-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/funcsigs-0.4-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/oslo.i18n-2.6.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/oslo.i18n-2.6.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/-1313697966" remote-root="/sf/vs/lib/python2.7/site-packages/Babel-2.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/iso8601-0.1.10-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/iso8601-0.1.10-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/msgpack_pure-0.1.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/msgpack_pure-0.1.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/msgpack_python-0.4.7-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/msgpack_python-0.4.7-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/decorator-4.0.6-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/decorator-4.0.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/prettytable-0.7-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/prettytable-0.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/prettytable_extras-0.1.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/prettytable_extras-0.1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/kazoo-2.4.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/kazoo-2.4.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/vcversioner-2.14.0.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/vcversioner-2.14.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/lazy_object_proxy-1.2.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/lazy_object_proxy-1.2.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/pylint-1.5.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pylint-1.5.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/1872374798" remote-root="/sf/vs/lib/python2.7/site-packages/greenlet-0.4.10-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/gevent-1.1.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/gevent-1.1.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/setproctitle-1.1.10-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/setproctitle-1.1.10-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/jproperties-1.0.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/jproperties-1.0.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/python_daemon-2.1.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/python_daemon-2.1.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/pycparser-2.14-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pycparser-2.14-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/cffi-1.4.2-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/cffi-1.4.2-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/gfapi-0.0.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/gfapi-0.0.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/Cython-0.24.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/Cython-0.24.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/numpy-1.11.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/numpy-1.11.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/tabulate-0.7.7-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/tabulate-0.7.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/setuptools-36.6.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/setuptools-36.6.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/pytest-3.2.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pytest-3.2.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/unittest_xml_reporting-2.1.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/unittest_xml_reporting-2.1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1182789036/924292916" remote-root="/sf/vs/lib/python2.7/site-packages/atomiclong-0.1.1-py2.7-linux-x86_64.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.11 (sftp://root@200.192.180.233:22/sf/vs/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="sftp://root@200.192.180.233:22/sf/vs/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/565804016" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/-896796035" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/878010814" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/-1383197484" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/359974613" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/amqp-1.4.9-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/anyjson-0.3.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/automaton-1.2.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/billiard-3.3.0.23-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/cachetools-1.1.6-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/celery-3.1.24-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/contextlib2-0.5.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/configparser-3.5.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/debtcollector-1.4.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/fasteners-0.14.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/futures-3.0.5-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/futurist-0.14.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/taskflow-1.26.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/jsonschema-2.5.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/kombu-3.0.37-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/mamba-0.8.6-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/mock-1.3.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/monotonic-1.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/netifaces-0.10.4-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/networkx-1.11-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/oslo.serialization-2.7.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/pbr-1.10.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/pbr-1.8.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/pytz-2016.10-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/redis-2.10.5-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/retrying-1.3.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/setuptools-19.6.2-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/stevedore-1.14.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/six-1.10.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/funcsigs-0.4-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/oslo.i18n-2.6.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/-1313697966" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/iso8601-0.1.10-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/msgpack_pure-0.1.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/msgpack_python-0.4.7-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/decorator-4.0.6-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/prettytable-0.7-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/prettytable_extras-0.1.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/955733582" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/vcversioner-2.14.0.0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/lazy_object_proxy-1.2.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/pylint-1.5.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/1872374798" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/gevent-1.1.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/setproctitle-1.1.10-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/jproperties-1.0.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/python_daemon-2.1.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/pycparser-2.14-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/cffi-1.4.2-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/gfapi-0.0.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/Cython-0.24.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/numpy-1.11.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/tabulate-0.7.7-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/980795881" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="5970dc65-07ec-45ee-80cb-1d8537d453c7" WEB_SERVER_CONFIG_NAME="root@200.192.180.233:22" WEB_SERVER_CREDENTIALS_ID="sftp://root@200.192.180.233:22" INTERPRETER_PATH="/sf/vs/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/565804016" remote-root="/sf/vs/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/-896796035" remote-root="/sf/vs/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/878010814" remote-root="/sf/vs/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/-1383197484" remote-root="/sf/vs/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/359974613" remote-root="/sf/vs/lib/python-srv" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/amqp-1.4.9-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/amqp-1.4.9-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/anyjson-0.3.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/anyjson-0.3.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/automaton-1.2.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/automaton-1.2.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/billiard-3.3.0.23-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/billiard-3.3.0.23-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/cachetools-1.1.6-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/cachetools-1.1.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/celery-3.1.24-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/celery-3.1.24-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/contextlib2-0.5.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/contextlib2-0.5.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/configparser-3.5.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/debtcollector-1.4.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/debtcollector-1.4.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/fasteners-0.14.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/fasteners-0.14.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/futures-3.0.5-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/futures-3.0.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/futurist-0.14.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/futurist-0.14.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/taskflow-1.26.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/taskflow-1.26.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/jsonschema-2.5.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/jsonschema-2.5.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/kombu-3.0.37-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/kombu-3.0.37-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/mamba-0.8.6-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/mamba-0.8.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/mock-1.3.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/mock-1.3.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/monotonic-1.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/monotonic-1.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/netifaces-0.10.4-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/netifaces-0.10.4-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/networkx-1.11-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/networkx-1.11-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/oslo.serialization-2.7.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/oslo.serialization-2.7.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/pbr-1.10.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pbr-1.10.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/pbr-1.8.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pbr-1.8.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/pytz-2016.10-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pytz-2016.10-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/redis-2.10.5-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/redis-2.10.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/retrying-1.3.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/retrying-1.3.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/setuptools-19.6.2-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/setuptools-19.6.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/stevedore-1.14.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/stevedore-1.14.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/six-1.10.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/six-1.10.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/funcsigs-0.4-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/funcsigs-0.4-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/oslo.i18n-2.6.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/oslo.i18n-2.6.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/-1313697966" remote-root="/sf/vs/lib/python2.7/site-packages/Babel-2.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/iso8601-0.1.10-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/iso8601-0.1.10-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/msgpack_pure-0.1.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/msgpack_pure-0.1.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/msgpack_python-0.4.7-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/msgpack_python-0.4.7-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/decorator-4.0.6-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/decorator-4.0.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/prettytable-0.7-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/prettytable-0.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/prettytable_extras-0.1.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/prettytable_extras-0.1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/955733582" remote-root="/sf/vs/lib/python2.7/site-packages/kazoo-2.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/vcversioner-2.14.0.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/vcversioner-2.14.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/lazy_object_proxy-1.2.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/lazy_object_proxy-1.2.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/pylint-1.5.0-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pylint-1.5.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/1872374798" remote-root="/sf/vs/lib/python2.7/site-packages/greenlet-0.4.10-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/gevent-1.1.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/gevent-1.1.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/setproctitle-1.1.10-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/setproctitle-1.1.10-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/jproperties-1.0.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/jproperties-1.0.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/python_daemon-2.1.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/python_daemon-2.1.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/pycparser-2.14-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/pycparser-2.14-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/cffi-1.4.2-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/cffi-1.4.2-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/gfapi-0.0.1-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/gfapi-0.0.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/Cython-0.24.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/Cython-0.24.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/numpy-1.11.1-py2.7-linux-x86_64.egg" remote-root="/sf/vs/lib/python2.7/site-packages/numpy-1.11.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/980795881/tabulate-0.7.7-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/tabulate-0.7.7-py2.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.11 (sftp://root@200.200.175.81:22/sf/vs/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="sftp://root@200.200.175.81:22/sf/vs/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/setuptools-19.6.2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-756712016" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-842356431" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-1870894492" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/backports_abc-0.4-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-1954319661" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/singledispatch-3.4.0.3-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/2087738292" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-1644796107" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-1993267365" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/694584406" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/565804016" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-896796035" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/878010814" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-1383197484" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1986381646" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="862ec411-4fc5-477a-a949-4348abc27b60" WEB_SERVER_CONFIG_NAME="root@200.200.175.81:22" WEB_SERVER_CREDENTIALS_ID="sftp://root@200.200.175.81:22" INTERPRETER_PATH="/sf/vs/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/setuptools-19.6.2-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/setuptools-19.6.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-756712016" remote-root="/sf/vs/lib/python2.7/site-packages/cffi-1.4.2-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-842356431" remote-root="/sf/vs/lib/python2.7/site-packages/psutil-3.2.2-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-1870894492" remote-root="/sf/vs/lib/python2.7/site-packages/gfapi-0.0.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/backports_abc-0.4-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/backports_abc-0.4-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-1954319661" remote-root="/sf/vs/lib/python2.7/site-packages/certifi-2016.8.8-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/singledispatch-3.4.0.3-py2.7.egg" remote-root="/sf/vs/lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/2087738292" remote-root="/sf/vs/lib/python2.7/site-packages/six-1.9.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-1644796107" remote-root="/sf/vs/lib/python2.7/site-packages/tornado-4.4.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-1993267365" remote-root="/sf/vs/lib/python2.7/site-packages/xattr-0.7.8-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/694584406" remote-root="/sf/vs/lib/python2.7/site-packages/pip-18.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/565804016" remote-root="/sf/vs/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-896796035" remote-root="/sf/vs/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/878010814" remote-root="/sf/vs/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1986381646/-1383197484" remote-root="/sf/vs/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.12 (sftp://root@200.200.213.27:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="sftp://root@200.200.213.27:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2092139678/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2092139678/724150857" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2092139678/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2092139678/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2092139678/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2092139678/-1676341222" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/2092139678" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="d750a0cd-6895-4b8e-a146-eee878f1a3b2" WEB_SERVER_CONFIG_NAME="root@200.200.213.27:22" WEB_SERVER_CREDENTIALS_ID="sftp://root@200.200.213.27:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2092139678/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2092139678/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2092139678/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2092139678/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2092139678/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2092139678/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.12 (sftp://root@200.200.213.26:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="sftp://root@200.200.213.26:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1358355747/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1358355747/724150857" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1358355747/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1358355747/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1358355747/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1358355747/-1676341222" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1358355747" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="f7358549-8e4b-4205-b555-6b956a8ce09e" WEB_SERVER_CONFIG_NAME="root@200.200.213.26:22" WEB_SERVER_CREDENTIALS_ID="sftp://root@200.200.213.26:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1358355747/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1358355747/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1358355747/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1358355747/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1358355747/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1358355747/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.12 (sftp://root@200.200.213.28:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="sftp://root@200.200.213.28:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/724150857" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/-1676341222" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/-1557553616" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1247667807" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="d2e304a6-d386-4e37-ae32-eeb5d74e9318" WEB_SERVER_CONFIG_NAME="root@200.200.213.28:22" WEB_SERVER_CREDENTIALS_ID="sftp://root@200.200.213.28:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1247667807/-1557553616" remote-root="/root/sdst" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
     </jdk>
   </component>
 </application>

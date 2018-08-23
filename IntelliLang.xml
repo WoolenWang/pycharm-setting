@@ -1,12 +1,8 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="Vue" injector-id="xml">
-      <display-name>Col</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().equalTo("Col")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
-    </injection>
-    <injection language="Vue" injector-id="xml">
-      <display-name>Row</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().equalTo("Row")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+      <display-name>span</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
     </injection>
   </component>
 </application>
