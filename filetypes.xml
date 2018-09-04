@@ -11,6 +11,7 @@
       <mapping pattern="vst_at_rw_offset0_size0" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
       <mapping pattern="vst_performance" type="Python" />
       <mapping pattern="aft" type="Python" />
       <mapping pattern="sdst" type="Python" />
