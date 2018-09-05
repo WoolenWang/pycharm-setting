@@ -66,6 +66,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="4977d190-0fac-4569-924a-8b10d3571595" name="root@192.168.123.250:22/ee/os/virt" url="http:///">
+        <fileTransfer host="192.168.123.250" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
