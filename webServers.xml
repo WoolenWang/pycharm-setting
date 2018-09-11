@@ -71,6 +71,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="25772b26-1dbf-4ce9-b829-4b92e3873601" name="teuhology" url="http:///">
+        <fileTransfer host="teuthology-server.ceph.sds.sangfor.org" port="22" rootFolder="/home/teuthology" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
