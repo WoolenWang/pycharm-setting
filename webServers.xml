@@ -76,6 +76,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="29dc9271-0cdf-4b3a-982d-37ecfd8a2681" name="root@www.ee-yun.cn:22" url="http:///">
+        <fileTransfer host="www.ee-yun.cn" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
