@@ -6,22 +6,17 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="f7ecf1e5-cd14-4f8c-a538-1894eaca58b3" name="root@192.168.123.250:22" url="http:///">
-        <fileTransfer host="192.168.123.250" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="c52737c3-aedf-49dc-bfe9-6c90e2bf770c" name="root@192.168.123.240:22" url="http:///">
-        <fileTransfer host="192.168.123.240" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="54b62b34-2e05-4cbf-9429-956f41e82c26" name="admin@10.87.7.145:22345" url="http:///">
+      <webServer id="389dba76-cf6a-4a10-a5b8-b1755468c92e" name="admin@10.87.7.145:22345_py_help" url="http:///">
         <fileTransfer host="10.87.7.145" port="22345" accessType="SFTP">
           <option name="port" value="22345" />
         </fileTransfer>
       </webServer>
-      <webServer id="95c5af27-2723-4bad-95d1-90b5523dc74b" name="admin@10.87.7.145:22345" url="http:///">
+      <webServer id="2bc4cb07-a3f8-43f6-b5d5-8e3cca087bde" name="AF_7.14_fit_python" url="http:///">
+        <fileTransfer host="10.87.7.145" port="22345" accessType="SFTP">
+          <option name="port" value="22345" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f77446f9-60d2-4b15-80b5-c862606b9d7f" name="AF_7.14_py_help" url="http:///">
         <fileTransfer host="10.87.7.145" port="22345" accessType="SFTP">
           <option name="port" value="22345" />
         </fileTransfer>
